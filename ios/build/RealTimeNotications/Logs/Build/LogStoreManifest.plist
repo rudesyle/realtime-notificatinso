@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>05193D80-630F-480F-92C8-8F42CD2EEC0A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>05193D80-630F-480F-92C8-8F42CD2EEC0A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>RealTimeNotications project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RealTimeNotications</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace RealTimeNotications with scheme RealTimeNotications and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>596149167.30754995</real>
+			<key>timeStoppedRecording</key>
+			<real>596149171.46544397</real>
+			<key>title</key>
+			<string>Building workspace RealTimeNotications with scheme RealTimeNotications and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>05193D80-630F-480F-92C8-8F42CD2EEC0A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

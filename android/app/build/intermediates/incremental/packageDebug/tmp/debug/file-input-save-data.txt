@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Nov 22 15:53:08 EST 2019
+#Thu Nov 28 13:01:38 EST 2019
 56.path=lib/x86_64/libfolly_json.so
 5.base=/Users/rudesyle/Projects/RealTimeNotifications/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/Users/rudesyle/Projects/RealTimeNotifications/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

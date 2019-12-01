@@ -9,15 +9,25 @@ export default class NotifService {
   }
 
   configure(onRegister, onNotification, gcm = "") {
+
     PushNotification.configure({
       // (optional) Called when Token is generated (iOS and Android)
-      onRegister: onRegister, //this._onRegister.bind(this),
+      onRegister: function(token) {
+        console.log("TOKEN:", token);
+      },
 
       // (required) Called when a remote or local notification is opened or received
-      onNotification: onNotification, //this._onNotification,
+      onNotification: function(notification) {
+        console.log("NOTIFICATION:", notification);
+    
+        // process the notification
+    
+        // required on iOS only (see fetchCompletionHandler docs: https://github.com/react-native-community/react-native-push-notification-ios)
+        notification.finish(PushNotificationIOS.FetchResult.NoData);
+      },
 
       // ANDROID ONLY: GCM Sender ID (optional - not required for local notifications, but is need to receive remote push notifications)
-      senderID: gcm,
+      senderID: '811030009977',
 
       // IOS ONLY (optional): default: all - Permissions to register.
       permissions: {

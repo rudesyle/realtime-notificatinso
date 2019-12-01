@@ -12,7 +12,7 @@ import ExampleActions from 'App/Stores/Example/Actions'
 import Auth0 from 'react-native-auth0';
 import PushNotification from 'react-native-push-notification'
 import NotifService from 'App/Services/NotifService'
-//import DeviceInfo from 'react-native-device-info'
+import DeviceInfo from 'react-native-device-info'
 
 //var credentials = require('./auth0-configuration');
 const auth0 = new Auth0({
@@ -24,8 +24,12 @@ const auth0 = new Auth0({
 export default class ExampleScreen extends React.Component {
   constructor(props) {
       super(props);
-      this.state = { accessToken: null }; 
-      this.notif = new NotifService(this.onRegister.bind(this), this.onNotif.bind(this));
+      this.state = { accessToken: null, deviceId:'floopstars', registerToken:null }; 
+      
+  }
+
+componentDidMount() {
+    this.notif = new NotifService(this.onRegister.bind(this), this.onNotif.bind(this));
   }
 
   _onLogin = () => {
@@ -53,30 +57,30 @@ export default class ExampleScreen extends React.Component {
           });
   };
 
-    onRegister(token) {
-      Alert.alert("Registered !", JSON.stringify(token));
-      console.log(token);
-      this.setState({ registerToken: token.token, gcmRegistered: true });
-    }
+  onRegister(token) {
+    Alert.alert("Registered !", JSON.stringify(token));
+    console.log(token);
+    //this.setState({ registerToken: token.token, gcmRegistered: true });
+  }
 
-    onNotif(notif) {
-      console.log(notif);
-      Alert.alert(notif.title, notif.message);
-    }
+  onNotif(notif) {
+    console.log(notif);
+    Alert.alert(notif.title, notif.message);
+  }
 
-    handlePerm(perms) {
-      Alert.alert("Permissions", JSON.stringify(perms));
-    }
+  handlePerm(perms) {
+    Alert.alert("Permissions", JSON.stringify(perms));
+  }
 
   
   render() {
         let loggedIn = this.state.accessToken === null ? false : true;
-        let appName = 'poop'; //DeviceInfo.getApplicationName();
+
         return (
         <View style = { styles.container }>
             <Text style = { styles.header }> Real Time Notifications - Login </Text>
             <Text>
-                You are{ loggedIn ? ' ' : ' not ' }logged in . </Text>
+                You are{ loggedIn ? ' ' : ' not ' }logged in {this.state.deviceId}</Text>
                 <Button onPress = { loggedIn ? this._onLogout : this._onLogin }
                 title = { loggedIn ? 'Log Out' : 'Log In' }/>
             <View style={styles.spacer}></View>
@@ -84,9 +88,6 @@ export default class ExampleScreen extends React.Component {
         <View style={styles.spacer}></View>
 
         <TouchableOpacity style={styles.button} onPress={() => { this.notif.localNotif() }}><Text>Local Notification (now)</Text></TouchableOpacity>
-        <TouchableOpacity style={styles.button} onPress={() => { this.notif.scheduleNotif() }}><Text>Schedule Notification in 30s</Text></TouchableOpacity>
-        <TouchableOpacity style={styles.button} onPress={() => { this.notif.cancelNotif() }}><Text>Cancel last notification (if any)</Text></TouchableOpacity>
-        <TouchableOpacity style={styles.button} onPress={() => { this.notif.cancelAll() }}><Text>Cancel all notifications</Text></TouchableOpacity>
 
         <View style={styles.spacer}></View>
         <TextInput style={styles.textField} value={this.state.senderId} onChangeText={(e) => {this.setState({ senderId: e })}} placeholder="GCM ID" />

@@ -4,7 +4,7 @@
             "outputFile": "/Users/rudesyle/Projects/RealTimeNotifications/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7af9ba51676da3cddfe9bbc5a09f47f6/res/values-v16/values-v16.xml",
+                    "source": "/Users/rudesyle/.gradle/caches/transforms-2/files-2.1/62bb84e2b55c33c267cd9dfad472f7d9/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/rudesyle/.gradle/caches/transforms-2/files-2.1/70cc8372f35a9f9776ea94661475305e/res/values-v16/values-v16.xml",
+                    "source": "/Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a52341125fe88c962a03c0dc3dc82dc2/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

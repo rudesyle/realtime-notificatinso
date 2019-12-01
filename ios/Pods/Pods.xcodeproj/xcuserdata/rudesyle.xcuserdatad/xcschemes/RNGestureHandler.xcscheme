@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "30225C067C4D2337D9443625053D8B52"
+               BlueprintIdentifier = "0D9DCCCDCAFBC80324825CEC74E08AB6"
                BlueprintName = "RNGestureHandler"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "libRNGestureHandler.a">

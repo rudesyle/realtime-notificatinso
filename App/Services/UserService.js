@@ -1,6 +1,8 @@
 import axios from 'axios'
 import { Config } from 'App/Config'
 import { is, curryN, gte } from 'ramda'
+import DeviceStorage from 'App/Services/DeviceStorage'; 
+import AsyncStorage from '@react-native-community/async-storage';
 
 const isWithin = curryN(3, (min, max, value) => {
   const isNumber = is(Number)
@@ -8,41 +10,57 @@ const isWithin = curryN(3, (min, max, value) => {
 })
 const in200s = isWithin(200, 299)
 
-/**
- * This is an example of a service that connects to a 3rd party API.
- *
- * Feel free to remove this example from your application.
- */
+const IdToken = async () => {
+  try {
+    await AsyncStorage.getItem("idToken").then(
+      token => token
+    );
+  } catch (error) {
+    return null;
+  }
+}
+const headers = {
+    'Accept': 'application/json',
+    'Content-Type': 'application/json',
+  };
+
 const userApiClient = axios.create({
-  /**
-   * Import the config from the App/Config/index.js file
-   */
   baseURL: Config.API_URL,
   headers: {
-    Accept: 'application/json',
+    'Accept': 'application/json',
     'Content-Type': 'application/json',
+    'x-application':'https://qa.realtimemed.com'
   },
   timeout: 3000,
 })
 
+userApiClient.interceptors.request.use(
+  async (config) => {
+    const accessToken = await AsyncStorage.getItem('accessToken');
+    config.headers.authorization = 'Bearer ' + accessToken;
+    config.headers.common['x-access-token'] = accessToken;
+    return config;
+  },
+  error => Promise.reject(error)
+);
+
 function fetchUser() {
-  // Simulate an error 50% of the time just for testing purposes
-  if (Math.random() > 0.5) {
-    return new Promise(function(resolve, reject) {
-      resolve(null)
+  AsyncStorage.getItem("idToken").then((idToken) => {
+    const data = JSON.stringify({
+      'idToken': idToken
+    });
+
+    return userApiClient.post(Config.API_URL,data,this.headers).then((response) => {
+      
+      if (in200s(response.status)) {
+        return response.data
+      }
+
+      return null
     })
-  }
-
-  let number = Math.floor(Math.random() / 0.1) + 1
-
-  return userApiClient.get(number.toString()).then((response) => {
-    if (in200s(response.status)) {
-      return response.data
-    }
-
-    return null
-  })
+  });
 }
+
 
 export const userService = {
   fetchUser,

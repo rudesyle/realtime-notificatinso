@@ -1,4 +1,5 @@
 import PushNotification from 'react-native-push-notification';
+import {Platform} from 'react-native';
 
 export default class NotifService {
 
@@ -22,8 +23,10 @@ export default class NotifService {
     
         // process the notification
     
-        // required on iOS only (see fetchCompletionHandler docs: https://github.com/react-native-community/react-native-push-notification-ios)
-        notification.finish(PushNotificationIOS.FetchResult.NoData);
+        if(Platform.OS === 'ios'){
+          // required on iOS only (see fetchCompletionHandler docs: https://github.com/react-native-community/react-native-push-notification-ios)
+          notification.finish(PushNotificationIOS.FetchResult.NoData);
+        }
       },
 
       // ANDROID ONLY: GCM Sender ID (optional - not required for local notifications, but is need to receive remote push notifications)

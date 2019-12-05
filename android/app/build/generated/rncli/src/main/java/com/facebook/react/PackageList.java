@@ -13,6 +13,8 @@ import java.util.ArrayList;
 import com.realtimenotifications.BuildConfig;
 import com.realtimenotifications.R;
 
+// @react-native-community/async-storage
+import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;
 // react-native-auth0
 import com.auth0.react.A0Auth0Package;
 // react-native-device-info
@@ -21,6 +23,8 @@ import com.learnium.RNDeviceInfo.RNDeviceInfo;
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 // react-native-push-notification
 import com.dieam.reactnativepushnotification.ReactNativePushNotificationPackage;
+// react-native-secure-key-store
+import com.reactlibrary.securekeystore.RNSecureKeyStorePackage;
 
 public class PackageList {
   private Application application;
@@ -54,10 +58,12 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(),
+      new AsyncStoragePackage(),
       new A0Auth0Package(),
       new RNDeviceInfo(),
       new RNGestureHandlerPackage(),
-      new ReactNativePushNotificationPackage()
+      new ReactNativePushNotificationPackage(),
+      new RNSecureKeyStorePackage()
     ));
   }
 }

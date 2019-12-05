@@ -8,6 +8,13 @@ import StartupActions from 'App/Stores/Startup/Actions'
 import { PropTypes } from 'prop-types'
 
 class RootScreen extends Component {
+  constructor() {
+    super();
+    this.state = {
+      newJWT: '',
+    }
+  }
+
   componentDidMount() {
     // Run the startup saga when the application is starting
     this.props.startup()

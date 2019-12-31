@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/rudesyle/Projects/RealTimeNotifications/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/Users/rudesyle/Repos/realtime-notificatinso/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a52341125fe88c962a03c0dc3dc82dc2/res/values-v24/values-v24.xml",
+                    "source": "/Users/rudesyle/.gradle/caches/transforms-2/files-2.1/47446f4d073160d5e432014902b66f35/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

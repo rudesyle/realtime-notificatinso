@@ -23,6 +23,10 @@ import com.learnium.RNDeviceInfo.RNDeviceInfo;
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 // react-native-push-notification
 import com.dieam.reactnativepushnotification.ReactNativePushNotificationPackage;
+// react-native-reanimated
+import com.swmansion.reanimated.ReanimatedPackage;
+// react-native-screens
+import com.swmansion.rnscreens.RNScreensPackage;
 // react-native-secure-key-store
 import com.reactlibrary.securekeystore.RNSecureKeyStorePackage;
 
@@ -63,6 +67,8 @@ public class PackageList {
       new RNDeviceInfo(),
       new RNGestureHandlerPackage(),
       new ReactNativePushNotificationPackage(),
+      new ReanimatedPackage(),
+      new RNScreensPackage(),
       new RNSecureKeyStorePackage()
     ));
   }

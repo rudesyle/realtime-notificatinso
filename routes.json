@@ -1,0 +1,6 @@
+{
+  "/api/*": "/$1",
+  "/authentication/auth0-user" : "/auth0-user",
+  "/keywords/get-for-user" : "/keywords",
+  "/user/device/save" : "/devices"
+}

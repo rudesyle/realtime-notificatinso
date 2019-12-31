@@ -1,71 +1,82 @@
-import React from 'react';
+import React from "react";
 import {
- Platform, Text, View, Button, ActivityIndicator, Image, StyleSheet , Alert, TouchableOpacity, TextInput
-} from 'react-native';
-import { connect } from 'react-redux';
-import { PropTypes } from 'prop-types';
-import { Images } from 'App/Theme'
-import NavigationService from 'App/Services/NavigationService'
-import LoginActions from 'App/Stores/Login/Actions'
-import Auth0 from 'react-native-auth0';
-import PushNotification from 'react-native-push-notification'
-import NotifService from 'App/Services/NotifService'
-import DeviceInfo from 'react-native-device-info'
-import DeviceStorage from 'App/Services/DeviceStorage'; 
+  Platform,
+  Text,
+  View,
+  Button,
+  ActivityIndicator,
+  Image,
+  StyleSheet,
+  Alert,
+  TouchableOpacity,
+  TextInput
+} from "react-native";
+import { connect } from "react-redux";
+import { PropTypes } from "prop-types";
+import NavigationService from "App/Services/NavigationService";
+import SaveDeviceActions from "App/Stores/SaveDevice/Actions";
+import Auth0 from "react-native-auth0";
+import DeviceInfo from "react-native-device-info";
+import DeviceStorage from "App/Services/DeviceStorage";
+import { Config } from "App/Config";
+import AsyncStorage from "@react-native-community/async-storage";
 
-//var credentials = require('./auth0-configuration');
 const auth0 = new Auth0({
-  clientId: "SAwA87Ypu2Ys8asXV5u41vZPLBDNhOM7",
-  domain: "realtimemed-beta.auth0.com"
+  clientId: Config.AUTH0_CLIENT_ID,
+  domain: Config.AUTH0_DOMAIN
 });
 
+class LoginScreen extends React.Component {
 
-export default class LoginScreen extends React.Component {
-  constructor(props) {
-      super(props);
-      this.state = { accessToken: null, idToken:null, deviceId:'floopstars', registerToken:null };    
-  }
-
-componentDidMount() {
-    this.notif = new NotifService(this.onRegister.bind(this), this.onNotif.bind(this));
-    this._onLogin();
+  componentDidMount() {
+    AsyncStorage.getItem('accessToken').then((accessToken) => {
+      if(! accessToken){
+        this._onLogin();
+      }
+    });  
   }
 
   _onLogin = () => {
-      auth0.webAuth
-          .authorize({
-              scope: 'openid profile email',
-              audience: "http://beta.api.rtms.io"
-          })
-          .then(res => {
-            DeviceStorage.saveItem("accessToken", res.accessToken);
-            DeviceStorage.saveItem("idToken", res.idToken);
-            DeviceStorage.logCurrentStorage();
-            this.props.navigation.navigate('App');
-          })
-          .catch(error => console.log(error));
+
+    auth0.webAuth
+      .authorize({
+        scope: "openid profile email",
+        audience: Config.AUTH0_AUDIENCE
+      })
+      .then(res => {
+        DeviceStorage.saveItem("accessToken", res.accessToken);
+        DeviceStorage.saveItem("idToken", res.idToken);
+        DeviceStorage.logCurrentStorage();
+        this._saveDevice();
+        this.props.navigation.navigate("App");
+      })
+      .catch(error => console.log(error));
   };
 
-  onRegister(token) {
-    Alert.alert("Registered !", JSON.stringify(token));
-    console.log(token);
-    DeviceStorage.saveItem("deviceToken", token);
+  _saveDevice() {
+    this.props.saveDevice();
   }
-
-  onNotif(notif) {
-    console.log(notif);
-    Alert.alert(notif.title, notif.message);
-  }
-
-  handlePerm(perms) {
-    Alert.alert("Permissions", JSON.stringify(perms));
-  }
-
 
   render() {
-        return (
-        <View>
-        </View>
-        );
-    }
+    return <View />;
+  }
 }
+
+LoginScreen.propTypes = {
+  saveDevice: PropTypes.func
+};
+
+const mapStateToProps = state => ({
+  device: state.example.device,
+  saveDeviceLoading: state.example.saveDeviceLoading,
+  saveDeviceErrorMessage: state.example.saveDeviceErrorMessage
+});
+
+const mapDispatchToProps = dispatch => ({
+  saveDevice: () => dispatch(SaveDeviceActions.saveDevice())
+});
+
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(LoginScreen);

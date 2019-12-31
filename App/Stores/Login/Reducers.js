@@ -4,28 +4,28 @@
  * @see https://redux.js.org/basics/reducers
  */
 
-import { createReducer } from 'reduxsauce'
-import { INITIAL_STATE } from './InitialState'
-import { LoginTypes } from './Actions';
+import { createReducer } from "reduxsauce";
+import { INITIAL_STATE } from "./InitialState";
+import { LoginTypes } from "./Actions";
 
-export const fetchUserLoading = (state) => ({
+export const fetchUserLoading = state => ({
   ...state,
   userIsLoading: true,
-  userErrorMessage: null,
+  userErrorMessage: null
 });
 
 export const fetchUserSuccess = (state, { user }) => ({
   ...state,
   user,
   userIsLoading: false,
-  userErrorMessage: null,
+  userErrorMessage: null
 });
 
 export const fetchUserFailure = (state, { errorMessage }) => ({
   ...state,
   user: {},
   userIsLoading: false,
-  userErrorMessage: errorMessage,
+  userErrorMessage: errorMessage
 });
 
 /**

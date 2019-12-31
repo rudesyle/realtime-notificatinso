@@ -1,4 +1,4 @@
-import { createActions } from 'reduxsauce';
+import { createActions } from "reduxsauce";
 
 /**
  * We use reduxsauce's `createActions()` helper to easily create redux actions.
@@ -24,9 +24,9 @@ const { Types, Creators } = createActions({
   // The operation has started and is loading
   fetchUserLoading: null,
   // User informations were successfully fetched
-  fetchUserSuccess: ['user'],
+  fetchUserSuccess: ["user"],
   // An error occurred
-  fetchUserFailure: ['errorMessage'],
+  fetchUserFailure: ["errorMessage"]
 });
 
 export const LoginTypes = Types;

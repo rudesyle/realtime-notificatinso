@@ -1,667 +1,759 @@
 -- Merging decision tree log ---
 permission#com.realtimenotifications.permission.C2D_MESSAGE
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:7:5-9:47
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:7:5-9:47
 	android:name
-		INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
 uses-permission#com.realtimenotifications.permission.C2D_MESSAGE
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:10:5-79
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:10:5-79
 	android:name
-		INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
 category#com.realtimenotifications
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:60:17-61
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:60:17-61
 	android:name
-		INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:1:1-93:12
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:1:1-93:12
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:1:1-93:12
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:1:1-93:12
-MERGED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:1:1-93:12
-MERGED from [:react-native-secure-key-store] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:@react-native-community_async-storage] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-auth0] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-auth0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-device-info] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
-MERGED from [:react-native-push-notification] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b129c57e676346fb8f1ff817d8feed38/AndroidManifest.xml:2:1-13:12
-MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e0d78f18a17eef7af84abfbcb3a6b523/AndroidManifest.xml:2:1-9:12
-MERGED from [org.webkit:android-jsc:r245459] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c55719bf2e49c815a47c54187d9b1631/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-gesture-handler] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a52341125fe88c962a03c0dc3dc82dc2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e50cd2676e4c97fac09e725c84350346/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/22a5a9719898f5dd1cf3d66decb26b4b/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cb32b379315bb5edf885930c6258f7b0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1ba65f55777f63bf95c73b7239d5645c/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/37210ca60c494b9809ab07397b2b2fab/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/627af942982af2f456970ad3d1825b78/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/64cbe6ecfa195d0b45939f8792e3bf4f/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cb366a066af25ddd71015acfd8bd6921/AndroidManifest.xml:2:1-13:12
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/11245b3de4e69e5d33ca4d15b3692d25/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.browser:browser:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d984cbe33920ddfe579e0048cee5d207/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d7e48828681dae155610c0e7a0ba8c70/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2183af552f9b28ee73537c274417a748/AndroidManifest.xml:17:1-28:12
-MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:2:1-41:12
-MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/374c4df5034b7f00431ca260933411b0/AndroidManifest.xml:17:1-37:12
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/91786f000325f1d00d5186fb6a5b5bc3/AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/58cf8f6dd438aa5bc7795fa344c00111/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:17:1-47:12
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0989fb45c0afb95e7039364dd768e483/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/4f32bf805643e575c392c9fa52c3e321/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/81cd9f461405df52f76afa3e8242b71d/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:2:1-26:12
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d913de0543d0ea6695b26d355a2c1c70/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6ef7464f4820fbfa5117337eb4bd4a28/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/3e5c9520a925eeef1495fe9ebdb2160a/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c512886b29c517b7aded3950c3fa02b2/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/bb1af51ec7bf1a0c527486147bd1f9b0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/753b95f903bc2114307ab5b43c4ac2de/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a3b0a29af0e94e21b9d8a9d6f96649c6/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/52cc8b10b9b093f513f9f2bcd1931345/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c9a4acc867d73bd2563cdc827178b3f1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/bab55eab421cff6fa8809ea89f88d3a3/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c229922fc27077f4fa968b2c5db15a54/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2cb550766cd3d81ddeef3e05bcaacf98/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/20700e720692dc0969b1d4adc934f8f9/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5c2a960c7659c6e9bf10feaad66a2088/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1e49b7d00d614a64532a7aff7472c03f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5cf97439bf3483277a8e89f81868f0d8/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/68069f524e45873435fc5cb5c1d1c22d/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/62bb84e2b55c33c267cd9dfad472f7d9/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2de5f7c923cefb24115403587ad71d77/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8723024d8a837f28a60c8f008ee72179/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8a508cc33e03ddd60dcb23f00e9dcf8e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c697aaae863f4cf3085fa8eb2296d65f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e2c8d816def7ba13741f04b89a6c93c9/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/36a98d0a591f84b82365a538c33aa342/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/eac14b87a2445dde30b175701112ed99/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/15be0b56a1db21e3dce20b80910a5537/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1e2e689290a618590101b4f11d8c05ee/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/30e8c327b056150fef0f52ef82a7785f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/04ce05c4f1d0e6d7ca7d2a2813e5371b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c27ec200f53c1e06df8731e5e81a945a/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+MERGED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+MERGED from [:@react-native-community_async-storage] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-auth0] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-auth0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:react-native-gesture-handler] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-push-notification] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-secure-key-store] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f086420028c3c3da5a622d30f58f71e1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6976c2a75820ffef43ccbe623e71a31b/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/47446f4d073160d5e432014902b66f35/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/aa373f29c2902e68869b1b848f03f440/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f162fcbd24132e63aceee6b18156d8ad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5fdd9413b482d2676f92ffdefbaf2e79/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9b1bf9382d04e2b4cbef91cdb68bc4bd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/69648e3cb2a9d37d8ad6013bf9a08aa2/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:15:1-41:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ac369a1f2fb41fa45c8bc991f6a9c0d2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2300bbc4834ec87f7200895b09d2e72c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cc0646b9341843ae724b7af5064cfc38/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a9130d51ac60975d1c591c45fdf80bdf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d971230ddb60822bbff54f58766c202/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/10b7c32d9ff4106928ecb9998a481ac4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/84f44dbaca3fa905a4f0d5a540c6a0b3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8d0468f42a80b12621554fa59a07fdd1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9ce4c17e6195b2a79cdec0076df2e14a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/acab8c5bc33f9082ca192a68bcaac975/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0f7fc848a66e7609752fa463d7308c3c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8ac06f6fbf4173756424d181a237f891/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1952eee68472c12ac94f19f62a8a3b14/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/550467bf5af89901bde6b4af8c313025/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8c1a5d5c6419a3f3ec9dcea1c3b0e4b1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/eae2da34907d57734acb6c22dfe64c7c/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/07f9fa31a98f7d7a64b954ffabf023e7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/222621dc7ae2d9404a2fef3662037f81/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/589f7cf8a856a2e387ae513aa3bc7f5a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6b32dc0185c293980bfe8ea7f5266ffb/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a2940691431ecd4caa618e9c30768b96/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e6a31eab28b345755b1111353171aa49/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e43ea71905009c4eeed805031db24919/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5449a12858eb3c0e65a8c383e5e11108/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/3d745f821e71b4b2dfea5db7a12c0311/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f67908b37a48a9e5e561d39d376519de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6844aef0c01925599b080c8415d828ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f3b0f78259f38614677a0f2b91204614/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/920a7fef5b5fde17bf0992e6d95cf664/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5a20d5dad9dd5f9faa687c16a2309c4d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/55c6fd7d77f679806374fb8a1d1cc212/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5330967ffcfba51854ed97bbfc4f4414/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/68d9b34b60c33eff46c574b43535e5b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/fecb9ef365ea942f51dae609d05a4ab1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9928330788b08d5c70adec543db59c2c/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a3b984843ac4244fb375bfa22f97ce4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e816c984719aff1df13449509cbf0d2a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/45b7508c778929f9463b0d27e2cff18c/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/25236dbe9a3a051aadadf0295fe17b16/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/85388d1f64a4eadeff1160392151af22/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/18512217de714a29d542a32c1df4fad1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c3d80d893a1b4b89272fdb15cd5409ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/52edff0694f494d7360ca656282f670e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/3f0dcc78bbdd96161e9f4d6a0b0475d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca62d9aab3448eabfabbfac48069cf6d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c82d3824baab356becb85c4a2e32ab9d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/68423cc90bccd3cb80433c0b32a303ff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/da359130d98595ab126cccb6ffe4da75/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b7d858d162c881859feeadff60f3ce4e/AndroidManifest.xml:17:1-22:12
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:2:1-41:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/284672720d9e28ad6e5271093dcab1ad/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6433959f22e0f0c1ad3f34ee794ca877/AndroidManifest.xml:15:1-22:12
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:2:3-38
-		INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:2:3-38
-		INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:2:3-38
+		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:2:3-38
+		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:1:1-93:12
-		INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:1:1-93:12
-		INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d7e48828681dae155610c0e7a0ba8c70/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d7e48828681dae155610c0e7a0ba8c70/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2183af552f9b28ee73537c274417a748/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2183af552f9b28ee73537c274417a748/AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/91786f000325f1d00d5186fb6a5b5bc3/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/91786f000325f1d00d5186fb6a5b5bc3/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:23:5-67
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/acab8c5bc33f9082ca192a68bcaac975/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/acab8c5bc33f9082ca192a68bcaac975/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0f7fc848a66e7609752fa463d7308c3c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0f7fc848a66e7609752fa463d7308c3c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8ac06f6fbf4173756424d181a237f891/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8ac06f6fbf4173756424d181a237f891/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:6:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/91786f000325f1d00d5186fb6a5b5bc3/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/91786f000325f1d00d5186fb6a5b5bc3/AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:24:5-68
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:6:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8ac06f6fbf4173756424d181a237f891/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8ac06f6fbf4173756424d181a237f891/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:6:22-65
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:6:22-65
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:13:5-66
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:13:5-66
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:13:22-63
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:13:22-63
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:14:5-80
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:14:5-80
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:14:22-78
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:14:22-78
 application
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:16:5-91:19
-MERGED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:16:5-91:19
-MERGED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:16:5-91:19
-MERGED from [:react-native-device-info] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
-MERGED from [:react-native-device-info] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
-MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b129c57e676346fb8f1ff817d8feed38/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b129c57e676346fb8f1ff817d8feed38/AndroidManifest.xml:11:5-20
-MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e0d78f18a17eef7af84abfbcb3a6b523/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e0d78f18a17eef7af84abfbcb3a6b523/AndroidManifest.xml:7:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cb366a066af25ddd71015acfd8bd6921/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cb366a066af25ddd71015acfd8bd6921/AndroidManifest.xml:11:5-20
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/11245b3de4e69e5d33ca4d15b3692d25/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/11245b3de4e69e5d33ca4d15b3692d25/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d7e48828681dae155610c0e7a0ba8c70/AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d7e48828681dae155610c0e7a0ba8c70/AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2183af552f9b28ee73537c274417a748/AndroidManifest.xml:26:5-20
-MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2183af552f9b28ee73537c274417a748/AndroidManifest.xml:26:5-20
-MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/374c4df5034b7f00431ca260933411b0/AndroidManifest.xml:22:5-35:19
-MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/374c4df5034b7f00431ca260933411b0/AndroidManifest.xml:22:5-35:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/58cf8f6dd438aa5bc7795fa344c00111/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/58cf8f6dd438aa5bc7795fa344c00111/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0989fb45c0afb95e7039364dd768e483/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0989fb45c0afb95e7039364dd768e483/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/4f32bf805643e575c392c9fa52c3e321/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/4f32bf805643e575c392c9fa52c3e321/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/81cd9f461405df52f76afa3e8242b71d/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/81cd9f461405df52f76afa3e8242b71d/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:12:5-24:19
-MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:12:5-24:19
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d913de0543d0ea6695b26d355a2c1c70/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d913de0543d0ea6695b26d355a2c1c70/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6ef7464f4820fbfa5117337eb4bd4a28/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6ef7464f4820fbfa5117337eb4bd4a28/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/3e5c9520a925eeef1495fe9ebdb2160a/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/3e5c9520a925eeef1495fe9ebdb2160a/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c512886b29c517b7aded3950c3fa02b2/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c512886b29c517b7aded3950c3fa02b2/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.core:core:1.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/62bb84e2b55c33c267cd9dfad472f7d9/AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/62bb84e2b55c33c267cd9dfad472f7d9/AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2de5f7c923cefb24115403587ad71d77/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2de5f7c923cefb24115403587ad71d77/AndroidManifest.xml:22:5-23:19
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:16:5-91:19
+MERGED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:16:5-91:19
+MERGED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:16:5-91:19
+MERGED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f086420028c3c3da5a622d30f58f71e1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f086420028c3c3da5a622d30f58f71e1/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6976c2a75820ffef43ccbe623e71a31b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6976c2a75820ffef43ccbe623e71a31b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/69648e3cb2a9d37d8ad6013bf9a08aa2/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/69648e3cb2a9d37d8ad6013bf9a08aa2/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:25:5-39:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8d0468f42a80b12621554fa59a07fdd1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8d0468f42a80b12621554fa59a07fdd1/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9ce4c17e6195b2a79cdec0076df2e14a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9ce4c17e6195b2a79cdec0076df2e14a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/acab8c5bc33f9082ca192a68bcaac975/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/acab8c5bc33f9082ca192a68bcaac975/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0f7fc848a66e7609752fa463d7308c3c/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0f7fc848a66e7609752fa463d7308c3c/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1952eee68472c12ac94f19f62a8a3b14/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1952eee68472c12ac94f19f62a8a3b14/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/550467bf5af89901bde6b4af8c313025/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/550467bf5af89901bde6b4af8c313025/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8c1a5d5c6419a3f3ec9dcea1c3b0e4b1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8c1a5d5c6419a3f3ec9dcea1c3b0e4b1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/eae2da34907d57734acb6c22dfe64c7c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/eae2da34907d57734acb6c22dfe64c7c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/07f9fa31a98f7d7a64b954ffabf023e7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/07f9fa31a98f7d7a64b954ffabf023e7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/222621dc7ae2d9404a2fef3662037f81/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/222621dc7ae2d9404a2fef3662037f81/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/589f7cf8a856a2e387ae513aa3bc7f5a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/589f7cf8a856a2e387ae513aa3bc7f5a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6b32dc0185c293980bfe8ea7f5266ffb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6b32dc0185c293980bfe8ea7f5266ffb/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9928330788b08d5c70adec543db59c2c/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9928330788b08d5c70adec543db59c2c/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/45b7508c778929f9463b0d27e2cff18c/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/45b7508c778929f9463b0d27e2cff18c/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/62bb84e2b55c33c267cd9dfad472f7d9/AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9928330788b08d5c70adec543db59c2c/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:18:7-39
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:18:7-39
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:18:7-39
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:18:7-39
 	tools:ignore
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml:7:75-114
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:20:7-52
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:20:7-52
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:20:7-52
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:20:7-52
 	tools:targetApi
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml:7:54-74
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:19:7-41
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:19:7-41
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:19:7-41
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:19:7-41
 	android:allowBackup
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:21:7-34
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:21:7-34
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:21:7-34
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:21:7-34
 	android:theme
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:22:7-38
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:22:7-38
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:22:7-38
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:22:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml:7:18-53
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:17:7-38
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:17:7-38
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:17:7-38
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:17:7-38
 activity#com.realtimenotifications.MainActivity
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:23:7-42:18
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:23:7-42:18
 	android:label
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:25:9-41
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:25:9-41
 	android:launchMode
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:26:9-40
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:26:9-40
 	android:windowSoftInputMode
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:28:9-51
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:28:9-51
 	android:configChanges
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:27:9-79
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:27:9-79
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:24:9-37
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:24:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:29:9-32:25
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:29:9-32:25
 action#android.intent.action.MAIN
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:30:13-65
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:30:13-65
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:30:21-62
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:30:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:31:13-73
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:31:13-73
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:31:23-70
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:31:23-70
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:realtimemed-beta.auth0.com+data:pathPrefix:/android/com.realtimenotifications/callback+data:scheme:com.realtimenotifications
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:33:9-41:25
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:33:9-41:25
 action#android.intent.action.VIEW
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:34:13-65
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:34:13-65
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:34:21-62
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:34:21-62
 category#android.intent.category.DEFAULT
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:35:13-72
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:35:13-72
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:35:23-69
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:35:23-69
 category#android.intent.category.BROWSABLE
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:36:13-74
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:36:13-74
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:36:23-71
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:36:23-71
 data
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:37:13-40:62
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:37:13-40:62
 	android:host
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:38:17-58
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:38:17-58
 	android:scheme
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:40:17-59
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:40:17-59
 	android:pathPrefix
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:39:17-81
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:39:17-81
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:43:7-84
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:43:7-84
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:43:17-81
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:43:17-81
 meta-data#com.dieam.reactnativepushnotification.notification_channel_name
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:45:15-46:65
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:45:15-46:65
 	android:value
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:46:17-63
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:46:17-63
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:45:27-105
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:45:27-105
 meta-data#com.dieam.reactnativepushnotification.notification_channel_description
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:47:9-48:76
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:47:9-48:76
 	android:value
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:48:21-74
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:48:21-74
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:47:21-106
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:47:21-106
 meta-data#com.dieam.reactnativepushnotification.notification_color
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:50:9-51:62
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:50:9-51:62
 	android:resource
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:51:21-60
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:51:21-60
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:50:21-92
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:50:21-92
 receiver#com.google.android.gms.gcm.GcmReceiver
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:54:9-62:20
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:54:9-62:20
 	android:exported
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:56:13-36
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:56:13-36
 	android:permission
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:57:13-73
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:57:13-73
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:55:13-66
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:55:13-66
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.realtimenotifications
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:58:13-61:29
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:58:13-61:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:59:17-81
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:59:17-81
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:59:25-78
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:59:25-78
 receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:65:9-110
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:65:9-110
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:65:19-107
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:65:19-107
 receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:66:9-70:20
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:66:9-70:20
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:66:19-115
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:66:19-115
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:67:13-69:29
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:67:13-69:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:68:17-79
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:68:17-79
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:68:25-76
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:68:25-76
 service#com.dieam.reactnativepushnotification.modules.RNPushNotificationRegistrationService
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:71:9-118
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:71:9-118
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:71:18-116
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:71:18-116
 service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerServiceGcm
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:74:9-80:19
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:74:9-80:19
 	android:exported
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:76:13-37
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:76:13-37
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:75:13-110
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:75:13-110
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:77:13-79:29
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:77:13-79:29
 service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:84:9-90:19
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:84:9-90:19
 	android:exported
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:86:13-37
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:86:13-37
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:85:13-107
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:85:13-107
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:87:13-89:29
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:87:13-89:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:88:17-78
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:88:17-78
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml:88:25-75
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:88:25-75
 uses-sdk
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-secure-key-store] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-secure-key-store] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:@react-native-community_async-storage] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:@react-native-community_async-storage] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-auth0] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-auth0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-auth0] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-auth0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-device-info] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-device-info] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-push-notification] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-push-notification] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b129c57e676346fb8f1ff817d8feed38/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b129c57e676346fb8f1ff817d8feed38/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e0d78f18a17eef7af84abfbcb3a6b523/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e0d78f18a17eef7af84abfbcb3a6b523/AndroidManifest.xml:5:5-44
-MERGED from [org.webkit:android-jsc:r245459] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c55719bf2e49c815a47c54187d9b1631/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c55719bf2e49c815a47c54187d9b1631/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a52341125fe88c962a03c0dc3dc82dc2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a52341125fe88c962a03c0dc3dc82dc2/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e50cd2676e4c97fac09e725c84350346/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e50cd2676e4c97fac09e725c84350346/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/22a5a9719898f5dd1cf3d66decb26b4b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/22a5a9719898f5dd1cf3d66decb26b4b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cb32b379315bb5edf885930c6258f7b0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cb32b379315bb5edf885930c6258f7b0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1ba65f55777f63bf95c73b7239d5645c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1ba65f55777f63bf95c73b7239d5645c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/37210ca60c494b9809ab07397b2b2fab/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/37210ca60c494b9809ab07397b2b2fab/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/627af942982af2f456970ad3d1825b78/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/627af942982af2f456970ad3d1825b78/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/64cbe6ecfa195d0b45939f8792e3bf4f/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/64cbe6ecfa195d0b45939f8792e3bf4f/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cb366a066af25ddd71015acfd8bd6921/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cb366a066af25ddd71015acfd8bd6921/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/11245b3de4e69e5d33ca4d15b3692d25/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/11245b3de4e69e5d33ca4d15b3692d25/AndroidManifest.xml:20:5-44
-MERGED from [androidx.browser:browser:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d984cbe33920ddfe579e0048cee5d207/AndroidManifest.xml:20:5-44
-MERGED from [androidx.browser:browser:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d984cbe33920ddfe579e0048cee5d207/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d7e48828681dae155610c0e7a0ba8c70/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d7e48828681dae155610c0e7a0ba8c70/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2183af552f9b28ee73537c274417a748/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2183af552f9b28ee73537c274417a748/AndroidManifest.xml:20:5-44
-MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:7:5-9:41
-MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/374c4df5034b7f00431ca260933411b0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/374c4df5034b7f00431ca260933411b0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/91786f000325f1d00d5186fb6a5b5bc3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/91786f000325f1d00d5186fb6a5b5bc3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/58cf8f6dd438aa5bc7795fa344c00111/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/58cf8f6dd438aa5bc7795fa344c00111/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0989fb45c0afb95e7039364dd768e483/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0989fb45c0afb95e7039364dd768e483/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/4f32bf805643e575c392c9fa52c3e321/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/4f32bf805643e575c392c9fa52c3e321/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/81cd9f461405df52f76afa3e8242b71d/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/81cd9f461405df52f76afa3e8242b71d/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d913de0543d0ea6695b26d355a2c1c70/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d913de0543d0ea6695b26d355a2c1c70/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6ef7464f4820fbfa5117337eb4bd4a28/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6ef7464f4820fbfa5117337eb4bd4a28/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/3e5c9520a925eeef1495fe9ebdb2160a/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/3e5c9520a925eeef1495fe9ebdb2160a/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c512886b29c517b7aded3950c3fa02b2/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c512886b29c517b7aded3950c3fa02b2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/bb1af51ec7bf1a0c527486147bd1f9b0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/bb1af51ec7bf1a0c527486147bd1f9b0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/753b95f903bc2114307ab5b43c4ac2de/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/753b95f903bc2114307ab5b43c4ac2de/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a3b0a29af0e94e21b9d8a9d6f96649c6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a3b0a29af0e94e21b9d8a9d6f96649c6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/52cc8b10b9b093f513f9f2bcd1931345/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/52cc8b10b9b093f513f9f2bcd1931345/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c9a4acc867d73bd2563cdc827178b3f1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c9a4acc867d73bd2563cdc827178b3f1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/bab55eab421cff6fa8809ea89f88d3a3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/bab55eab421cff6fa8809ea89f88d3a3/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c229922fc27077f4fa968b2c5db15a54/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c229922fc27077f4fa968b2c5db15a54/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2cb550766cd3d81ddeef3e05bcaacf98/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2cb550766cd3d81ddeef3e05bcaacf98/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/20700e720692dc0969b1d4adc934f8f9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/20700e720692dc0969b1d4adc934f8f9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5c2a960c7659c6e9bf10feaad66a2088/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5c2a960c7659c6e9bf10feaad66a2088/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1e49b7d00d614a64532a7aff7472c03f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1e49b7d00d614a64532a7aff7472c03f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5cf97439bf3483277a8e89f81868f0d8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5cf97439bf3483277a8e89f81868f0d8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/68069f524e45873435fc5cb5c1d1c22d/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/68069f524e45873435fc5cb5c1d1c22d/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/62bb84e2b55c33c267cd9dfad472f7d9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/62bb84e2b55c33c267cd9dfad472f7d9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2de5f7c923cefb24115403587ad71d77/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2de5f7c923cefb24115403587ad71d77/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8723024d8a837f28a60c8f008ee72179/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8723024d8a837f28a60c8f008ee72179/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8a508cc33e03ddd60dcb23f00e9dcf8e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8a508cc33e03ddd60dcb23f00e9dcf8e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c697aaae863f4cf3085fa8eb2296d65f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c697aaae863f4cf3085fa8eb2296d65f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e2c8d816def7ba13741f04b89a6c93c9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e2c8d816def7ba13741f04b89a6c93c9/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/36a98d0a591f84b82365a538c33aa342/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/36a98d0a591f84b82365a538c33aa342/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/eac14b87a2445dde30b175701112ed99/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/eac14b87a2445dde30b175701112ed99/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/15be0b56a1db21e3dce20b80910a5537/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/15be0b56a1db21e3dce20b80910a5537/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1e2e689290a618590101b4f11d8c05ee/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1e2e689290a618590101b4f11d8c05ee/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/30e8c327b056150fef0f52ef82a7785f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/30e8c327b056150fef0f52ef82a7785f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/04ce05c4f1d0e6d7ca7d2a2813e5371b/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/04ce05c4f1d0e6d7ca7d2a2813e5371b/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c27ec200f53c1e06df8731e5e81a945a/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c27ec200f53c1e06df8731e5e81a945a/AndroidManifest.xml:5:5-7:41
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-auth0] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-auth0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-auth0] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-auth0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-secure-key-store] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-secure-key-store] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f086420028c3c3da5a622d30f58f71e1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f086420028c3c3da5a622d30f58f71e1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6976c2a75820ffef43ccbe623e71a31b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6976c2a75820ffef43ccbe623e71a31b/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/47446f4d073160d5e432014902b66f35/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/47446f4d073160d5e432014902b66f35/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/aa373f29c2902e68869b1b848f03f440/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/aa373f29c2902e68869b1b848f03f440/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f162fcbd24132e63aceee6b18156d8ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f162fcbd24132e63aceee6b18156d8ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5fdd9413b482d2676f92ffdefbaf2e79/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5fdd9413b482d2676f92ffdefbaf2e79/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9b1bf9382d04e2b4cbef91cdb68bc4bd/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9b1bf9382d04e2b4cbef91cdb68bc4bd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/69648e3cb2a9d37d8ad6013bf9a08aa2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/69648e3cb2a9d37d8ad6013bf9a08aa2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ac369a1f2fb41fa45c8bc991f6a9c0d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ac369a1f2fb41fa45c8bc991f6a9c0d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2300bbc4834ec87f7200895b09d2e72c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2300bbc4834ec87f7200895b09d2e72c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cc0646b9341843ae724b7af5064cfc38/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cc0646b9341843ae724b7af5064cfc38/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a9130d51ac60975d1c591c45fdf80bdf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a9130d51ac60975d1c591c45fdf80bdf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d971230ddb60822bbff54f58766c202/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d971230ddb60822bbff54f58766c202/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/10b7c32d9ff4106928ecb9998a481ac4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/10b7c32d9ff4106928ecb9998a481ac4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/84f44dbaca3fa905a4f0d5a540c6a0b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/84f44dbaca3fa905a4f0d5a540c6a0b3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8d0468f42a80b12621554fa59a07fdd1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8d0468f42a80b12621554fa59a07fdd1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9ce4c17e6195b2a79cdec0076df2e14a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9ce4c17e6195b2a79cdec0076df2e14a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/acab8c5bc33f9082ca192a68bcaac975/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/acab8c5bc33f9082ca192a68bcaac975/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0f7fc848a66e7609752fa463d7308c3c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0f7fc848a66e7609752fa463d7308c3c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8ac06f6fbf4173756424d181a237f891/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8ac06f6fbf4173756424d181a237f891/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1952eee68472c12ac94f19f62a8a3b14/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/1952eee68472c12ac94f19f62a8a3b14/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/550467bf5af89901bde6b4af8c313025/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/550467bf5af89901bde6b4af8c313025/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8c1a5d5c6419a3f3ec9dcea1c3b0e4b1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8c1a5d5c6419a3f3ec9dcea1c3b0e4b1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/eae2da34907d57734acb6c22dfe64c7c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/eae2da34907d57734acb6c22dfe64c7c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/07f9fa31a98f7d7a64b954ffabf023e7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/07f9fa31a98f7d7a64b954ffabf023e7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/222621dc7ae2d9404a2fef3662037f81/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/222621dc7ae2d9404a2fef3662037f81/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/589f7cf8a856a2e387ae513aa3bc7f5a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/589f7cf8a856a2e387ae513aa3bc7f5a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6b32dc0185c293980bfe8ea7f5266ffb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6b32dc0185c293980bfe8ea7f5266ffb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a2940691431ecd4caa618e9c30768b96/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/a2940691431ecd4caa618e9c30768b96/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e6a31eab28b345755b1111353171aa49/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e6a31eab28b345755b1111353171aa49/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e43ea71905009c4eeed805031db24919/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e43ea71905009c4eeed805031db24919/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5449a12858eb3c0e65a8c383e5e11108/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5449a12858eb3c0e65a8c383e5e11108/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/3d745f821e71b4b2dfea5db7a12c0311/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/3d745f821e71b4b2dfea5db7a12c0311/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f67908b37a48a9e5e561d39d376519de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f67908b37a48a9e5e561d39d376519de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6844aef0c01925599b080c8415d828ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6844aef0c01925599b080c8415d828ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f3b0f78259f38614677a0f2b91204614/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f3b0f78259f38614677a0f2b91204614/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/920a7fef5b5fde17bf0992e6d95cf664/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/920a7fef5b5fde17bf0992e6d95cf664/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5a20d5dad9dd5f9faa687c16a2309c4d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5a20d5dad9dd5f9faa687c16a2309c4d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/55c6fd7d77f679806374fb8a1d1cc212/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/55c6fd7d77f679806374fb8a1d1cc212/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5330967ffcfba51854ed97bbfc4f4414/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5330967ffcfba51854ed97bbfc4f4414/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/68d9b34b60c33eff46c574b43535e5b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/68d9b34b60c33eff46c574b43535e5b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/fecb9ef365ea942f51dae609d05a4ab1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/fecb9ef365ea942f51dae609d05a4ab1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9928330788b08d5c70adec543db59c2c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9928330788b08d5c70adec543db59c2c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a3b984843ac4244fb375bfa22f97ce4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a3b984843ac4244fb375bfa22f97ce4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e816c984719aff1df13449509cbf0d2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e816c984719aff1df13449509cbf0d2a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/45b7508c778929f9463b0d27e2cff18c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/45b7508c778929f9463b0d27e2cff18c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/25236dbe9a3a051aadadf0295fe17b16/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/25236dbe9a3a051aadadf0295fe17b16/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/85388d1f64a4eadeff1160392151af22/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/85388d1f64a4eadeff1160392151af22/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/18512217de714a29d542a32c1df4fad1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/18512217de714a29d542a32c1df4fad1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c3d80d893a1b4b89272fdb15cd5409ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c3d80d893a1b4b89272fdb15cd5409ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/52edff0694f494d7360ca656282f670e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/52edff0694f494d7360ca656282f670e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/3f0dcc78bbdd96161e9f4d6a0b0475d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/3f0dcc78bbdd96161e9f4d6a0b0475d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca62d9aab3448eabfabbfac48069cf6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca62d9aab3448eabfabbfac48069cf6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c82d3824baab356becb85c4a2e32ab9d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c82d3824baab356becb85c4a2e32ab9d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/68423cc90bccd3cb80433c0b32a303ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/68423cc90bccd3cb80433c0b32a303ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/da359130d98595ab126cccb6ffe4da75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/da359130d98595ab126cccb6ffe4da75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b7d858d162c881859feeadff60f3ce4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b7d858d162c881859feeadff60f3ce4e/AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/284672720d9e28ad6e5271093dcab1ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/284672720d9e28ad6e5271093dcab1ad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6433959f22e0f0c1ad3f34ee794ca877/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6433959f22e0f0c1ad3f34ee794ca877/AndroidManifest.xml:18:5-20:41
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /Users/rudesyle/Projects/RealTimeNotifications/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:5:22-75
 receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
-ADDED from [:react-native-device-info] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-19:20
+ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-19:20
 	android:enabled
-		ADDED from [:react-native-device-info] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
+		ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
 	android:exported
-		ADDED from [:react-native-device-info] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-36
+		ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-36
 	android:name
-		ADDED from [:react-native-device-info] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-70
+		ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-70
 intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [:react-native-device-info] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:29
+ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [:react-native-device-info] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-79
+ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-79
 	android:name
-		ADDED from [:react-native-device-info] /Users/rudesyle/Projects/RealTimeNotifications/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-76
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/91786f000325f1d00d5186fb6a5b5bc3/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/91786f000325f1d00d5186fb6a5b5bc3/AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:22:5-79
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:24:22-76
-uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:26:5-110
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:26:22-107
-receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:29:9-33:20
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:31:13-35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:32:13-37
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:30:13-85
-receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:34:9-42:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/be84bb7dbb1d88ddfd999618835d5de3/AndroidManifest.xml:29:9-37:20
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:36:13-35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:37:13-36
-	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:38:13-69
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:35:13-100
-service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:44:9-47:40
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:46:13-35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:47:13-37
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:45:13-84
-service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:48:9-52:72
-	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:50:13-35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:51:13-37
-	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:52:13-69
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6f4c37216cbd2f97e8a16484506d8e2c/AndroidManifest.xml:49:13-87
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:13:9-17:35
-MERGED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:13:9-17:35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:29:13-37
-	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:17:13-32
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:15:13-43
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:28:13-84
-meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:30:13-32:85
-	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:32:17-82
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/248657985596f3a2274cf0cecdd9d398/AndroidManifest.xml:31:17-139
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d7e48828681dae155610c0e7a0ba8c70/AndroidManifest.xml:23:5-82
-MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2183af552f9b28ee73537c274417a748/AndroidManifest.xml:23:5-82
-MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2183af552f9b28ee73537c274417a748/AndroidManifest.xml:23:5-82
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:26:5-82
-MERGED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:26:5-82
-	android:name
-		ADDED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/d7e48828681dae155610c0e7a0ba8c70/AndroidManifest.xml:23:22-79
-uses-permission#com.sec.android.provider.badge.permission.READ
-ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:19:5-86
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:19:22-83
-uses-permission#com.sec.android.provider.badge.permission.WRITE
-ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:20:5-87
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:20:22-84
-uses-permission#com.htc.launcher.permission.READ_SETTINGS
-ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:23:5-81
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:23:22-78
-uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
-ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:24:5-83
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:24:22-80
-uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
-ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:27:5-88
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:27:22-85
-uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
-ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:28:5-92
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:28:22-89
-uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
-ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:31:5-84
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:31:22-81
-uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
-ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:34:5-83
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:34:22-80
-uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
-ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:37:5-91
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:37:22-88
-uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
-ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:38:5-92
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:38:22-89
-uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
-ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:39:5-93
-	android:name
-		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b328f4bff687a2004d2d40b4cfc02836/AndroidManifest.xml:39:22-90
+		ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-76
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/374c4df5034b7f00431ca260933411b0/AndroidManifest.xml:28:9-34:19
+ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:28:9-34:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/374c4df5034b7f00431ca260933411b0/AndroidManifest.xml:30:13-37
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/374c4df5034b7f00431ca260933411b0/AndroidManifest.xml:29:13-82
-meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:32:13-34:85
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:29:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:35:9-41:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/69648e3cb2a9d37d8ad6013bf9a08aa2/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/69648e3cb2a9d37d8ad6013bf9a08aa2/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:37:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:36:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:38:13-40:85
 	android:value
-		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:34:17-82
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:40:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:33:17-96
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:37:9-44:20
+		ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:39:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/69648e3cb2a9d37d8ad6013bf9a08aa2/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/69648e3cb2a9d37d8ad6013bf9a08aa2/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/69648e3cb2a9d37d8ad6013bf9a08aa2/AndroidManifest.xml:29:17-115
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8ac06f6fbf4173756424d181a237f891/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/8ac06f6fbf4173756424d181a237f891/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:25:22-76
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:36:9-38:40
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:39:13-36
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:28:13-37
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:40:13-73
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:29:13-69
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:20.0.1] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7a68543a145b59054f71ad94c64c2ee9/AndroidManifest.xml:38:13-78
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/81cd9f461405df52f76afa3e8242b71d/AndroidManifest.xml:23:9-26:75
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:32:9-34:40
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/81cd9f461405df52f76afa3e8242b71d/AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/81cd9f461405df52f76afa3e8242b71d/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:34:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/81cd9f461405df52f76afa3e8242b71d/AndroidManifest.xml:24:13-79
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:19:9-23:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:21:13-72
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5198b629d63711afb5cc5dca800354e9/AndroidManifest.xml:33:13-132
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:22:13-37
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:23:13-36
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-common:19.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/986235671bd9c89a3cdae2cfa2ad4ab1/AndroidManifest.xml:20:13-77
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c512886b29c517b7aded3950c3fa02b2/AndroidManifest.xml:23:9-25:69
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/b70bdbc1be13032fa4327c73b2cd26ce/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:35:13-100
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:49:13-87
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:30:13-32:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c512886b29c517b7aded3950c3fa02b2/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:32:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/c512886b29c517b7aded3950c3fa02b2/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/acab8c5bc33f9082ca192a68bcaac975/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0f7fc848a66e7609752fa463d7308c3c/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/0f7fc848a66e7609752fa463d7308c3c/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/acab8c5bc33f9082ca192a68bcaac975/AndroidManifest.xml:23:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:38:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/eae2da34907d57734acb6c22dfe64c7c/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/eae2da34907d57734acb6c22dfe64c7c/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/eae2da34907d57734acb6c22dfe64c7c/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/eae2da34907d57734acb6c22dfe64c7c/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2e159da67cf647c61498186917927e47/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6b32dc0185c293980bfe8ea7f5266ffb/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6b32dc0185c293980bfe8ea7f5266ffb/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6b32dc0185c293980bfe8ea7f5266ffb/AndroidManifest.xml:24:13-58
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:39:22-90

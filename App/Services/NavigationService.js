@@ -1,4 +1,4 @@
-import { NavigationActions, StackActions } from 'react-navigation'
+import { NavigationActions, StackActions } from 'react-navigation';
 
 /**
  * The navigation is implemented as a service so that it can be used outside of components, for example in sagas.
@@ -6,13 +6,13 @@ import { NavigationActions, StackActions } from 'react-navigation'
  * @see https://reactnavigation.org/docs/en/navigating-without-navigation-prop.html
  */
 
-let navigator
+let navigator;
 
 /**
  * This function is called when the RootScreen is created to set the navigator instance to use.
  */
 function setTopLevelNavigator(navigatorRef) {
-  navigator = navigatorRef
+  navigator = navigatorRef;
 }
 
 /**
@@ -26,8 +26,8 @@ function navigate(routeName, params) {
     NavigationActions.navigate({
       routeName,
       params,
-    })
-  )
+    }),
+  );
 }
 
 /**
@@ -50,12 +50,12 @@ function navigateAndReset(routeName, params) {
           params,
         }),
       ],
-    })
-  )
+    }),
+  );
 }
 
 export default {
   navigate,
   navigateAndReset,
   setTopLevelNavigator,
-}
+};

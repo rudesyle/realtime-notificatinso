@@ -1,41 +1,36 @@
-/*import React from 'react'
-import { Text, View } from 'react-native'
-import styles from './SplashScreenStyle'
 
-export default class SplashScreen extends React.Component {
-  render() {
-    return (
-      <View style={styles.container}>
-        <View style={styles.logo}>
-          {You will probably want to insert your logo here }
-          <Text>LOGO</Text>
-        </View>
-      </View>
-    )
-  }
-}*/
 import React from 'react';
 import {
   ActivityIndicator,
-  AsyncStorage,
   StatusBar,
   StyleSheet,
   View,
 } from 'react-native';
+import AsyncStorage from '@react-native-community/async-storage';
+import PushNotification from "react-native-push-notification";
+import NotifService from "App/Services/NotifService";
 
 export default class SplashScreen extends React.Component {
-  componentDidMount() {
+
+  constructor() {
+    super();
     this._bootstrapAsync();
+    this.notif = new NotifService(this.onNotif.bind(this));
   }
 
   // Fetch the token from storage then navigate to our appropriate place
   _bootstrapAsync = async () => {
-    const userToken = await AsyncStorage.getItem('userToken');
+    const accessToken = await AsyncStorage.getItem('accessToken');
 
     // This will switch to the App screen or Auth screen and this loading
     // screen will be unmounted and thrown away.
-    this.props.navigation.navigate(userToken ? 'App' : 'Auth');
+    this.props.navigation.navigate(accessToken ? 'App' : 'Auth');
   };
+
+  onNotif(notif) {
+    console.log(notif);
+    Alert.alert(notif.title, notif.message);
+  }
 
   // Render any loading content that you like here
   render() {

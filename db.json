@@ -1,0 +1,86 @@
+{
+  "keywords": [
+    [
+      {
+        "Keyword": "Smoking",
+        "KeywordPhrase": "Nicotine Step 2 Patch 24 Hour 14 MG/24HR Apply 1 patch transdermally every 24 hours for <u><i><b>Smoking</u></i></b>  cessation and remove per schedule awaiting delivery",
+        "ResMRN": "4002",
+        "ResNameF": "Aurelia",
+        "ResNameL": "Koper"
+      },
+      {
+        "Keyword": "Decrease",
+        "KeywordPhrase": "for gastroesophageal reflux disease Take 1 tablet by mouth every morning (before breakfast) Severity: Moderate Interaction: Proton pump inhibitors may <u><i><b>Decrease</u></i></b>  gastrointestinal absorption of Peritoneal Dialysis Solutions Solution 344MOSM/L.",
+        "ResMRN": "3420",
+        "ResNameF": "Wayne",
+        "ResNameL": "Tjandra"
+      },
+      {
+        "Keyword": "Decrease",
+        "KeywordPhrase": "or gastroesophageal reflux disease Take 1 tablet by mouth every morning (before breakfast) Severity: Moderate Interaction: Proton pump inhibitors may <u><i><b>Decrease</u></i></b>  gastrointestinal absorption of Peritoneal Dialysis Solutions Solution 344MOSM/L.",
+        "ResMRN": "3420",
+        "ResNameF": "Wayne",
+        "ResNameL": "Tjandra"
+      },
+      {
+        "Keyword": "Pain",
+        "KeywordPhrase": "Tablet 5-325 MG Give 1 tablet by mouth every 6 hours as needed for analgesic PRN Administration was: Effective Follow-up <u><i><b>Pain</u></i></b>  Scale was: 0",
+        "ResMRN": "2907",
+        "ResNameF": "Oretha",
+        "ResNameL": "Mazzeo"
+      },
+      {
+        "Keyword": "Blood",
+        "KeywordPhrase": "Check Fasting <u><i><b>Blood</u></i></b>  sugar QD one time a day",
+        "ResMRN": "3453",
+        "ResNameF": "Lavinia",
+        "ResNameL": "Bollen"
+      },
+      {
+        "Keyword": "Congestion",
+        "KeywordPhrase": "HCl Tablet 50MG. Robitussin Severe Day/Night Miscellaneous Give 20 ml via PEG-Tube every 4 hours as needed for c/o ear ache <u><i><b>Congestion</u></i></b>  Severity: Moderate Interaction : Acetaminophen may enhance the anticoagulant effect of Coumadin Tablet 5MG. This appears to be most likely",
+        "ResMRN": "3453",
+        "ResNameF": "Lavinia",
+        "ResNameL": "Bollen"
+      },
+      {
+        "Keyword": "Severe",
+        "KeywordPhrase": "Insomnia Severity: Moderate Interaction: The hypoprothrombinemic effect of Coumadin Tablet 5MG may be decreased by TraZODone HCl Tablet 50MG. Robitussin <u><i><b>Severe</u></i></b>  Day/Night Miscellaneous Give 20 ml via PEG-Tube every 4 hours as needed for c/o ear ache/congestion Severity: Moderate Interaction :",
+        "ResMRN": "3453",
+        "ResNameF": "Lavinia",
+        "ResNameL": "Bollen"
+      },
+      {
+        "Keyword": "Severe",
+        "KeywordPhrase": "Insomnia Severity: Moderate Interaction: The hypoprothrombinemic effect of Coumadin Tablet 3MG may be decreased by TraZODone HCl Tablet 50MG. Robitussin <u><i><b>Severe</u></i></b>  Day/Night Miscellaneous Give 20 ml via PEG-Tube every 4 hours as needed for c/o ear ache/congestion Severity : Moderate Interaction:",
+        "ResMRN": "3453",
+        "ResNameF": "Lavinia",
+        "ResNameL": "Bollen"
+      },
+      {
+        "Keyword": "Congestion",
+        "KeywordPhrase": "HCl Tablet 50MG. Robitussin Severe Day/Night Miscellaneous Give 20 ml via PEG-Tube every 4 hours as needed for c/o ear ache <u><i><b>Congestion</u></i></b>  Severity : Moderate Interaction: Acetaminophen may enhance the anticoagulant effect of Coumadin Tablet 3MG. This appears to be most likely",
+        "ResMRN": "3453",
+        "ResNameF": "Lavinia",
+        "ResNameL": "Bollen"
+      },
+      {
+        "Keyword": "Increased",
+        "KeywordPhrase": "UNSPECIFIED ANKLE AND FOOT, WITH TOPHUS (TOPHI) (M1A.3791) Severity: Severe Interaction: The hypoprothrombinemic effect of Coumadin Tablet 5MG may be <u><i><b>Increased</u></i></b>  by Allopurinol Tablet 100MG. Omepraz ole Suspension 2 MG/ML Give 20 mg via G-Tube two times a day related to",
+        "ResMRN": "3453",
+        "ResNameF": "Lavinia",
+        "ResNameL": "Bollen"
+      }
+    ]
+  ],
+  "devices": [
+    {
+      "id": 9112,
+      "Token": "ccF2Svmc86o:APA91bGX-WKGKdR69JGCN1qrJWQuDMXXqbjLss6St4lBweaIiR5WNPfhfuz_qjrKWRzySbZ_9GTBhOC_pCsy_mvVid4jICjMgT9qTjSV9jpiFz8tZzhumkxPLBqChkztu4RFm7Qdo7l2",
+      "Info": ""
+    }
+  ],
+  "auth0-user": {
+    "idToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IlJUWXpRMFkzUlVNNE9EQkNNVU0zTkVRMVJqWTJOamxDTXpNNU9UVXpSVFkwUWtNek1EUkVRdyJ9.eyJodHRwczovL3BvcnRhbC5yZWFsdGltZW1lZC5jb20vZ3JvdXBzIjpbIkNvbXBhbnkgQWRtaW5pc3RyYXRvciIsIlJlYWwgVGltZSBUZWFtIiwiU29mdHdhcmUiLCJSZWFsIFRpbWUgU3lzdGVtIEFsZXJ0cyIsIlJlYWwgVGltZSBEYXRhYmFzZSBBbGVydHMiLCJSZWFsIFRpbWUgUG9ydGFsIEZlZWRiYWNrIiwiUmVhbCBUaW1lIFBvcnRhbCBEZXZzIiwiUmVhbCBUaW1lIEFwcGxpY2F0aW9uIEFsZXJ0cyIsIlJlYWwgVGltZSBUZWNobm9sb2d5IFRlYW0iLCJBZG1pblBvcnRhbEFkbWluIiwiSW50dW5lIC0gQWxsIEludHVuZSBMaWNlbnNlZCBVc2VycyIsIkludHVuZSAtIEFsbCBVc2VycyIsIlBvcnRhbFVzZXIiLCJDQy1DbGllbnRIVyIsIlJlYWwgVGltZSBQb3J0YWwgVXNlcnMgLSBTU08iLCJSZWFsIFRpbWUgQWRtaW4gU2l0ZSBVc2VycyAtIFNTTyIsIlNvZnR3YXJlIEVuZ2luZWVyaW5nIFFBIiwidW5kZXItNV85bXBoLXN0YXktb3V0Il0sImh0dHBzOi8vcG9ydGFsLnJlYWx0aW1lbWVkLmNvbS9naXZlbl9uYW1lIjoiSmVmZnJleSIsImh0dHBzOi8vcG9ydGFsLnJlYWx0aW1lbWVkLmNvbS9mYW1pbHlfbmFtZSI6IlJ1ZGVzeWxlIiwiaHR0cHM6Ly9wb3J0YWwucmVhbHRpbWVtZWQuY29tL2VtYWlsIjoianJ1ZGVzeWxlQHJlYWx0aW1lbWVkLmNvbSIsImh0dHBzOi8vcG9ydGFsLnJlYWx0aW1lbWVkLmNvbS91c2VyX2lkIjoid2FhZHxJZHlsTkhDTS1Dd0FIcWhwTzVxTnJSUnlINHpKeXVmSFVQM3ZCYzBPcFhzIiwiaHR0cHM6Ly9wb3J0YWwucmVhbHRpbWVtZWQuY29tL2Nvbm5lY3Rpb24iOiJydG1zbWFpbC13YWFkIiwiaHR0cHM6Ly9wb3J0YWwucmVhbHRpbWVtZWQuY29tL2lzX2FkbWluX3NpdGUiOmZhbHNlLCJnaXZlbl9uYW1lIjoiSmVmZnJleSIsImZhbWlseV9uYW1lIjoiUnVkZXN5bGUiLCJuaWNrbmFtZSI6ImpydWRlc3lsZUByZWFsdGltZW1lZC5jb20iLCJuYW1lIjoiSmVmZnJleSBSdWRlc3lsZSIsInBpY3R1cmUiOiJodHRwczovL3MuZ3JhdmF0YXIuY29tL2F2YXRhci8xOTNmNzMzZTIwYjdmMTU4MmY1YTE0NjMwNWFhMDE5MD9zPTQ4MCZyPXBnJmQ9aHR0cHMlM0ElMkYlMkZjZG4uYXV0aDAuY29tJTJGYXZhdGFycyUyRmpyLnBuZyIsInVwZGF0ZWRfYXQiOiIyMDE5LTEyLTMwVDE4OjA1OjA2LjQ3MVoiLCJlbWFpbCI6ImpydWRlc3lsZUByZWFsdGltZW1lZC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6Ly9yZWFsdGltZW1lZC1iZXRhLmF1dGgwLmNvbS8iLCJzdWIiOiJ3YWFkfElkeWxOSENNLUN3QUhxaHBPNXFOclJSeUg0ekp5dWZIVVAzdkJjME9wWHMiLCJhdWQiOiJTQXdBODdZcHUyWXM4YXNYVjV1NDF2WlBMQkROaE9NNyIsImlhdCI6MTU3NzcyOTEwOCwiZXhwIjoxNTc3NzMyNzA4fQ.atkNlVN3K1bmutd4t20P5fecd7iKK8XxcuKizJ3f-6OszyCn-H11jbB230w-N5Ky25omS3je-em0mN1kh2bYZ4PMeRxn735WLTUEWGRSDG5A7g0Axx-P3DtmsYy4n4M9yAuWwoG3TOhBSixGCy_7MUv6Sr2uMdhac2KWLVREsNoFJ7ku_GxqAeLVT6jBFp__W89xIaimW-cWBpGcCIiLM2IDfTunUeV8OcPRC6yWPDSvb9vygIMYUvAhp3R_M3BPssidWIFnFGNRXFEg6RdyYQKaTPX6kcZ9nApI7lLR_ELGIFb6GP1LUzhLM4xau-6g3k8olqsQKPcTWFcpA4eOuQ"
+  }
+}

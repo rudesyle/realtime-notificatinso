@@ -21,7 +21,7 @@ import { createActions } from 'reduxsauce';
 const { Types, Creators } = createActions({
   fetchKeywords: null,
   fetchKeywordsLoading: null,
-  fetchKeywordsSuccess: ['user'],
+  fetchKeywordsSuccess: ['keywords'],
   fetchKeywordsFailure: ['errorMessage'],
 });
 

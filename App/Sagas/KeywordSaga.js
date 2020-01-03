@@ -16,7 +16,7 @@ export function* fetchKeywords() {
     yield put(FetchKeywordsActions.fetchKeywordsSuccess(keywords));
   } else {
     yield put(
-      FetchKeywordsActions.fetchKeywordsSFailure(
+      FetchKeywordsActions.fetchKeywordsFailure(
         'There was an error while retrieving keywords.',
       ),
     );

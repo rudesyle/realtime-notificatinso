@@ -25,6 +25,7 @@ MERGED from [:react-native-push-notification] /Users/rudesyle/Repos/realtime-not
 MERGED from [:react-native-reanimated] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-screens] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-secure-key-store] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f086420028c3c3da5a622d30f58f71e1/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6976c2a75820ffef43ccbe623e71a31b/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/47446f4d073160d5e432014902b66f35/AndroidManifest.xml:17:1-24:12
@@ -375,6 +376,8 @@ MERGED from [:react-native-screens] /Users/rudesyle/Repos/realtime-notificatinso
 MERGED from [:react-native-screens] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-secure-key-store] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-secure-key-store] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f086420028c3c3da5a622d30f58f71e1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f086420028c3c3da5a622d30f58f71e1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6976c2a75820ffef43ccbe623e71a31b/AndroidManifest.xml:5:5-44

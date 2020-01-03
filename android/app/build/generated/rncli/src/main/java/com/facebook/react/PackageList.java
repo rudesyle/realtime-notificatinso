@@ -29,6 +29,8 @@ import com.swmansion.reanimated.ReanimatedPackage;
 import com.swmansion.rnscreens.RNScreensPackage;
 // react-native-secure-key-store
 import com.reactlibrary.securekeystore.RNSecureKeyStorePackage;
+// react-native-vector-icons
+import com.oblador.vectoricons.VectorIconsPackage;
 
 public class PackageList {
   private Application application;
@@ -69,7 +71,8 @@ public class PackageList {
       new ReactNativePushNotificationPackage(),
       new ReanimatedPackage(),
       new RNScreensPackage(),
-      new RNSecureKeyStorePackage()
+      new RNSecureKeyStorePackage(),
+      new VectorIconsPackage()
     ));
   }
 }

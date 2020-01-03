@@ -3,6 +3,7 @@ import { Config } from 'App/Config';
 import { is, curryN, gte } from 'ramda';
 import DeviceStorage from 'App/Services/DeviceStorage';
 import AsyncStorage from '@react-native-community/async-storage';
+import { Alert } from 'react-native';
 
 const isWithin = curryN(3, (min, max, value) => {
   const isNumber = is(Number);
@@ -67,7 +68,9 @@ function fetchUser() {
 }
 
 function fetchKeywords() {
+
   const url = `${Config.API_URL}/keywords/get-for-user/`;
+
   return userApiClient.get(url, this.headers).then((response) => {
     if (in200s(response.status)) {
       return response.data;
@@ -96,4 +99,5 @@ function saveDevice() {
 export const userService = {
   fetchUser,
   saveDevice,
+  fetchKeywords,
 };

@@ -1,13 +1,10 @@
-import { StyleSheet } from 'react-native'
-import Fonts from 'App/Theme/Fonts'
-import ApplicationStyles from 'App/Theme/ApplicationStyles'
+import { StyleSheet, Platform } from 'react-native';
+import Fonts from 'App/Theme/Fonts';
+import ApplicationStyles from 'App/Theme/ApplicationStyles';
 
 export default StyleSheet.create({
   container: {
     ...ApplicationStyles.screen.container,
-    margin: 30,
-    flex: 1,
-    justifyContent: 'center',
   },
   title: {
     ...Fonts.style.h2,
@@ -50,4 +47,24 @@ export default StyleSheet.create({
     width: '100%',
     height: '100%',
   },
-})
+  keywordRow: {
+    flexDirection: "row",
+    flexWrap: "wrap",
+    width: 500,
+    padding: 10
+  },
+  keyword: {
+    ...Fonts.style.smaller,
+    color: '#FF5733',
+    fontWeight: 'bold'
+  },
+  keywordDetail: {
+    ...Fonts.style.smaller,
+    color: '#FF5733',
+  },
+  keywordInitialsAndDate: {
+    ...Fonts.style.smaller,
+    color: '#FF5733',
+    fontWeight: 'bold'
+  },
+});

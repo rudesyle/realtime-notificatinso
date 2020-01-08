@@ -1,18 +1,18 @@
 import React from "react";
-import {Platform,Text,View,Button,ActivityIndicator,Image, FlatList,TouchableHighlight } from "react-native";
+import {Platform,Text,View,WebView,Button,ActivityIndicator,Image,FlatList } from "react-native";
+import styles from "./KeywordListScreenStyle";
 import { connect } from "react-redux";
 import { PropTypes } from "prop-types";
 import { Images } from "App/Theme";
 import LoginActions from "App/Stores/Login/Actions";
 import KeywordListActions from "App/Stores/KeywordList/Actions";
-import Style from "./KeywordListScreenStyle";
 import AsyncStorage from "@react-native-community/async-storage";
 import { DrawerActions } from 'react-navigation-drawer';
 import TopBarScreen from 'App/Containers/TopBar/TopBarScreen';
+import KeywordItem from 'App/Components/KeywordItem';
 
 class KeywordListScreen extends React.Component {
   componentDidMount() {
-
     AsyncStorage.getItem('accessToken').then((accessToken) => {
 
       if(accessToken){
@@ -20,28 +20,41 @@ class KeywordListScreen extends React.Component {
       }
     });  
   }
-  
-  _onProfile = () => {
-    this.props.navigation.dispatch(DrawerActions.openDrawer());
-  };
 
   _keyExtractor = (item, index) => item.KeywordId;
 
   _renderItem = ({item}) => (
-    <Text>{item.Keyword} - noted by {item.Initials} on {item.EventDt}</Text> 
+    <View style={styles.keywordRow}>
+      <Text style={styles.keyword}>{item.Keyword}</Text>
+      <Text style={styles.keywordDetails}> - noted by </Text>
+      <Text style={styles.keywordInitialsAndDate}> {item.Initials}</Text> 
+      <Text style={styles.keywordDetails}> on</Text> 
+      <Text style={styles.keywordInitialsAndDate}> {item.EventDt}</Text>
+      <Text style={styles.keywordDetails}> {item.KeywordPhrase}</Text>
+    </View>
   );
+
+_listEmptyComponent = () => {
+    return (
+        <View>
+            <Text>I HAVE JACK SQUATTAH</Text>
+        </View>
+    )
+  }
 
   render() {
     return (
        
       <View>
-        <TopBarScreen navigation={this.props.navigation}></TopBarScreen>            
-        <FlatList
-        data={this.props.keywords}
-        keyExtractor={this._keyExtractor}
-        renderItem={this._renderItem}
-      />
-
+        <TopBarScreen navigation={this.props.navigation}></TopBarScreen>      
+        <View>    
+          <FlatList
+            data={this.props.keywords}
+            keyExtractor={this._keyExtractor}
+            renderItem={this._renderItem}
+            ListEmptyComponent={this._listEmptyComponent}
+          />
+        </View>  
       </View>
     );
   }

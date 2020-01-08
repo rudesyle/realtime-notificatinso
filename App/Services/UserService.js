@@ -68,14 +68,13 @@ function fetchUser() {
 }
 
 function fetchKeywords() {
-
   const url = `${Config.API_URL}/keywords/get-for-user/`;
 
   return userApiClient.get(url, this.headers).then((response) => {
     if (in200s(response.status)) {
       return response.data;
     }
-    return null;
+    return [];
   });
 }
 

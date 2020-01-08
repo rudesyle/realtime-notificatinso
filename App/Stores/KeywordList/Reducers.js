@@ -10,6 +10,7 @@ import { FetchKeywordsTypes } from './Actions';
 
 export const fetchKeywordsLoading = (state) => ({
   ...state,
+  keywords: [],
   fetchKeywordsLoading: true,
   fetchKeywordsErrorMessage: null,
 });
@@ -23,7 +24,7 @@ export const fetchKeywordsSuccess = (state, { keywords }) => ({
 
 export const fetchKeywordsFailure = (state, { errorMessage }) => ({
   ...state,
-  keywords: {},
+  keywords: [],
   fetchKeywordsLoading: false,
   fetchKeywordsErrorMessage: errorMessage,
 });

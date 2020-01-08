@@ -11,7 +11,7 @@ export function* fetchKeywords() {
 
   // Fetch user informations from an API
   const keywords = yield call(userService.fetchKeywords);
-
+ 
   if (keywords) {
     yield put(FetchKeywordsActions.fetchKeywordsSuccess(keywords));
   } else {

@@ -1,38 +1,39 @@
 -- Merging decision tree log ---
 permission#com.realtimenotifications.permission.C2D_MESSAGE
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:7:5-9:47
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:7:5-9:47
 	android:name
-		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml
 uses-permission#com.realtimenotifications.permission.C2D_MESSAGE
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:10:5-79
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:10:5-79
 	android:name
-		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml
 category#com.realtimenotifications
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:60:17-61
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:60:17-61
 	android:name
-		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
-MERGED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
-MERGED from [:@react-native-community_async-storage] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-auth0] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-auth0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
-MERGED from [:react-native-gesture-handler] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-push-notification] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-reanimated] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-screens] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-secure-key-store] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-vector-icons] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f086420028c3c3da5a622d30f58f71e1/AndroidManifest.xml:2:1-13:12
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+MERGED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+MERGED from [:@react-native-community_async-storage] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-auth0] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-auth0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-device-info] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:react-native-gesture-handler] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-push-notification] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-secure-key-store] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cc74922117351085eacfd806d51705ef/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6976c2a75820ffef43ccbe623e71a31b/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/47446f4d073160d5e432014902b66f35/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.browser:browser:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/aa373f29c2902e68869b1b848f03f440/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f162fcbd24132e63aceee6b18156d8ad/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5fdd9413b482d2676f92ffdefbaf2e79/AndroidManifest.xml:17:1-24:12
-MERGED from [org.webkit:android-jsc:r245459] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9b1bf9382d04e2b4cbef91cdb68bc4bd/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9e53f70ce5f512619481924aa5384d3a/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:17:1-44:12
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/69648e3cb2a9d37d8ad6013bf9a08aa2/AndroidManifest.xml:15:1-34:12
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:15:1-38:12
@@ -94,28 +95,28 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rudesyle/.gradle/cach
 MERGED from [me.leolin:ShortcutBadger:1.1.8] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/ca66086e29ee518bb36513d5c93001fc/AndroidManifest.xml:2:1-41:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/284672720d9e28ad6e5271093dcab1ad/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6433959f22e0f0c1ad3f34ee794ca877/AndroidManifest.xml:15:1-22:12
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:2:3-38
-		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:2:3-38
-		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:2:3-38
+		INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:2:3-38
+		INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
-		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+		INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
-		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:1-93:12
+		INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/e173c655273bb329d31039464b01f2f4/AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:23:5-67
@@ -133,9 +134,9 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /U
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:6:5-68
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:6:5-68
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/2d07c331b26c988f1035a9f47daf2e9b/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/43b946fc2d33fdaed175d0b45ea7a435/AndroidManifest.xml:24:5-68
@@ -147,23 +148,25 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] /U
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/7d9a406a91066ba0282aab4252f4c84c/AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:6:22-65
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:6:22-65
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:13:5-66
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:13:5-66
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:13:22-63
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:13:22-63
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:14:5-80
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:14:5-80
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:14:22-78
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:14:22-78
 application
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:16:5-91:19
-MERGED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:16:5-91:19
-MERGED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:16:5-91:19
-MERGED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
-MERGED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
-MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f086420028c3c3da5a622d30f58f71e1/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f086420028c3c3da5a622d30f58f71e1/AndroidManifest.xml:11:5-20
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:16:5-91:19
+MERGED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:16:5-91:19
+MERGED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:16:5-91:19
+MERGED from [:react-native-device-info] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-webview] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cc74922117351085eacfd806d51705ef/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cc74922117351085eacfd806d51705ef/AndroidManifest.xml:11:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6976c2a75820ffef43ccbe623e71a31b/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6976c2a75820ffef43ccbe623e71a31b/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:22:5-42:19
@@ -215,171 +218,173 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9928330788b08d5c70adec543db59c2c/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:18:7-39
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:18:7-39
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:18:7-39
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:18:7-39
 	tools:ignore
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:7:75-114
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:20:7-52
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:20:7-52
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:20:7-52
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:20:7-52
 	tools:targetApi
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:7:54-74
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:19:7-41
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:19:7-41
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:19:7-41
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:19:7-41
 	android:allowBackup
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:21:7-34
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:21:7-34
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:21:7-34
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:21:7-34
 	android:theme
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:22:7-38
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:22:7-38
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:22:7-38
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:22:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:7:18-53
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:17:7-38
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:17:7-38
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:17:7-38
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:17:7-38
 activity#com.realtimenotifications.MainActivity
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:23:7-42:18
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:23:7-42:18
 	android:label
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:25:9-41
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:25:9-41
 	android:launchMode
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:26:9-40
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:26:9-40
 	android:windowSoftInputMode
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:28:9-51
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:28:9-51
 	android:configChanges
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:27:9-79
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:27:9-79
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:24:9-37
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:24:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:29:9-32:25
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:29:9-32:25
 action#android.intent.action.MAIN
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:30:13-65
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:30:13-65
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:30:21-62
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:30:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:31:13-73
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:31:13-73
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:31:23-70
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:31:23-70
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:realtimemed-beta.auth0.com+data:pathPrefix:/android/com.realtimenotifications/callback+data:scheme:com.realtimenotifications
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:33:9-41:25
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:33:9-41:25
 action#android.intent.action.VIEW
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:34:13-65
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:34:13-65
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:34:21-62
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:34:21-62
 category#android.intent.category.DEFAULT
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:35:13-72
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:35:13-72
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:35:23-69
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:35:23-69
 category#android.intent.category.BROWSABLE
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:36:13-74
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:36:13-74
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:36:23-71
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:36:23-71
 data
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:37:13-40:62
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:37:13-40:62
 	android:host
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:38:17-58
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:38:17-58
 	android:scheme
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:40:17-59
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:40:17-59
 	android:pathPrefix
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:39:17-81
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:39:17-81
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:43:7-84
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:43:7-84
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:43:17-81
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:43:17-81
 meta-data#com.dieam.reactnativepushnotification.notification_channel_name
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:45:15-46:65
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:45:15-46:65
 	android:value
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:46:17-63
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:46:17-63
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:45:27-105
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:45:27-105
 meta-data#com.dieam.reactnativepushnotification.notification_channel_description
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:47:9-48:76
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:47:9-48:76
 	android:value
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:48:21-74
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:48:21-74
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:47:21-106
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:47:21-106
 meta-data#com.dieam.reactnativepushnotification.notification_color
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:50:9-51:62
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:50:9-51:62
 	android:resource
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:51:21-60
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:51:21-60
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:50:21-92
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:50:21-92
 receiver#com.google.android.gms.gcm.GcmReceiver
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:54:9-62:20
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:54:9-62:20
 	android:exported
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:56:13-36
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:56:13-36
 	android:permission
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:57:13-73
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:57:13-73
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:55:13-66
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:55:13-66
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.realtimenotifications
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:58:13-61:29
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:58:13-61:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:59:17-81
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:59:17-81
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:59:25-78
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:59:25-78
 receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:65:9-110
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:65:9-110
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:65:19-107
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:65:19-107
 receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:66:9-70:20
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:66:9-70:20
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:66:19-115
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:66:19-115
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:67:13-69:29
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:67:13-69:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:68:17-79
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:68:17-79
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:68:25-76
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:68:25-76
 service#com.dieam.reactnativepushnotification.modules.RNPushNotificationRegistrationService
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:71:9-118
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:71:9-118
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:71:18-116
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:71:18-116
 service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerServiceGcm
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:74:9-80:19
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:74:9-80:19
 	android:exported
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:76:13-37
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:76:13-37
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:75:13-110
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:75:13-110
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:77:13-79:29
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:77:13-79:29
 service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:84:9-90:19
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:84:9-90:19
 	android:exported
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:86:13-37
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:86:13-37
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:85:13-107
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:85:13-107
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:87:13-89:29
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:87:13-89:29
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:88:17-78
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:88:17-78
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml:88:25-75
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml:88:25-75
 uses-sdk
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
-MERGED from [:@react-native-community_async-storage] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:@react-native-community_async-storage] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-auth0] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-auth0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-auth0] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-auth0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-push-notification] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-push-notification] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-screens] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-screens] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-secure-key-store] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-secure-key-store] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f086420028c3c3da5a622d30f58f71e1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f086420028c3c3da5a622d30f58f71e1/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-auth0] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-auth0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-auth0] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-auth0/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-secure-key-store] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-secure-key-store] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-secure-key-store/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cc74922117351085eacfd806d51705ef/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/cc74922117351085eacfd806d51705ef/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6976c2a75820ffef43ccbe623e71a31b/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6976c2a75820ffef43ccbe623e71a31b/AndroidManifest.xml:5:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/47446f4d073160d5e432014902b66f35/AndroidManifest.xml:20:5-22:41
@@ -390,8 +395,8 @@ MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rudesyle/.grad
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/f162fcbd24132e63aceee6b18156d8ad/AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5fdd9413b482d2676f92ffdefbaf2e79/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/5fdd9413b482d2676f92ffdefbaf2e79/AndroidManifest.xml:20:5-22:41
-MERGED from [org.webkit:android-jsc:r245459] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9b1bf9382d04e2b4cbef91cdb68bc4bd/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9b1bf9382d04e2b4cbef91cdb68bc4bd/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9e53f70ce5f512619481924aa5384d3a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9e53f70ce5f512619481924aa5384d3a/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/69648e3cb2a9d37d8ad6013bf9a08aa2/AndroidManifest.xml:19:5-21:41
@@ -514,32 +519,48 @@ MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rudesyle/.gradle/caches/tr
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/284672720d9e28ad6e5271093dcab1ad/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6433959f22e0f0c1ad3f34ee794ca877/AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/6433959f22e0f0c1ad3f34ee794ca877/AndroidManifest.xml:18:5-20:41
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /Users/rudesyle/Repos/realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/src/debug/AndroidManifest.xml:5:22-75
 receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
-ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-19:20
+ADDED from [:react-native-device-info] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-19:20
 	android:enabled
-		ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
+		ADDED from [:react-native-device-info] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-35
 	android:exported
-		ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-36
+		ADDED from [:react-native-device-info] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-36
 	android:name
-		ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-70
+		ADDED from [:react-native-device-info] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-70
 intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:29
+ADDED from [:react-native-device-info] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-79
+ADDED from [:react-native-device-info] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-79
 	android:name
-		ADDED from [:react-native-device-info] /Users/rudesyle/Repos/realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-76
+		ADDED from [:react-native-device-info] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:25-76
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /Users/rudesyle/Repos/OLD-realtime-notificatinso/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
 service#com.google.firebase.messaging.FirebaseMessagingService
 ADDED from [com.google.firebase:firebase-messaging:20.1.0] /Users/rudesyle/.gradle/caches/transforms-2/files-2.1/03b42fa9afd8e3b878ad64ca9019acaf/AndroidManifest.xml:28:9-34:19
 	android:exported

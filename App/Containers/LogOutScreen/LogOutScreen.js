@@ -32,7 +32,7 @@ export default class LogOutScreen extends React.Component {
       .then(success => {
         DeviceStorage.removeItem("accessToken");
         DeviceStorage.removeItem("idToken");
-        this.props.navigation.navigate("SignIn");
+        this.props.navigation.navigate("Auth");
       })
       .catch(error => {
         console.log("Log out cancelled");

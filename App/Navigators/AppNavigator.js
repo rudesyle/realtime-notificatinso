@@ -14,6 +14,9 @@ const AppStack = createStackNavigator({
   Home: {
     screen: KeywordListScreen,
     path: 'realtimenotifications/:keywordlist',
+    navigationOptions: {
+      title: 'Home'
+    }
   },
 });
 const AuthStack = createStackNavigator({
@@ -23,7 +26,10 @@ const AuthStack = createStackNavigator({
 
 const MenuDrawer = createDrawerNavigator({
   Home: {
-    screen: KeywordListScreen,
+    screen: KeywordListScreen, navigationOptions: {
+      title: 'Home',
+      header: null //this will hide the header
+    },
   },
   Setup: {
     screen: SetUpScreen,

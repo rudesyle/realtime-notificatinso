@@ -50,7 +50,7 @@ export default StyleSheet.create({
   keywordRow: {
     flexDirection: "row",
     flexWrap: "wrap",
-    width: 500,
+    width: "98%",
     padding: 10
   },
   keyword: {
@@ -62,9 +62,13 @@ export default StyleSheet.create({
     ...Fonts.style.smaller,
     color: '#FF5733',
   },
+  keywordNotedBy: {
+    ...Fonts.style.smaller,
+    fontSize: 12,
+    color: '#808080',
+    marginTop: 2,
+  },
   keywordInitialsAndDate: {
     ...Fonts.style.smaller,
-    color: '#FF5733',
-    fontWeight: 'bold'
   },
 });

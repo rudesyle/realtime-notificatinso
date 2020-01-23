@@ -1,4 +1,4 @@
-#Wed Jan 08 11:42:20 EST 2020
-base.0=/Users/rudesyle/Repos/realtime-notificatinso/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Thu Jan 23 08:36:54 EST 2020
+base.0=/Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "/Users/rudesyle/Repos/realtime-notificatinso"
+		}
+	],
+	"settings": {
+		"workbench.iconTheme": "vscode-icons",
+		"javascript.validate.enable": false,
+		"javascript.format.enable": false,
+		"vsicons.projectDetection.autoReload": true
+	}
+}

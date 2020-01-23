@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/rudesyle/Repos/realtime-notificatinso/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "outputFile": "/Users/rudesyle/Repos/OLD-realtime-notificatinso/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
             "map": [
                 {
                     "source": "/Users/rudesyle/.gradle/caches/transforms-2/files-2.1/9928330788b08d5c70adec543db59c2c/res/values-mk/values-mk.xml",

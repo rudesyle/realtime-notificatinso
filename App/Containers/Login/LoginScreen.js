@@ -58,7 +58,7 @@ class LoginScreen extends React.Component {
   }
 
   render() {
-    return <View />;
+    return <View></View>;
   }
 }
 

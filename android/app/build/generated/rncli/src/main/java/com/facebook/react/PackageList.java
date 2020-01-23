@@ -31,6 +31,8 @@ import com.swmansion.rnscreens.RNScreensPackage;
 import com.reactlibrary.securekeystore.RNSecureKeyStorePackage;
 // react-native-vector-icons
 import com.oblador.vectoricons.VectorIconsPackage;
+// react-native-webview
+import com.reactnativecommunity.webview.RNCWebViewPackage;
 
 public class PackageList {
   private Application application;
@@ -72,7 +74,8 @@ public class PackageList {
       new ReanimatedPackage(),
       new RNScreensPackage(),
       new RNSecureKeyStorePackage(),
-      new VectorIconsPackage()
+      new VectorIconsPackage(),
+      new RNCWebViewPackage()
     ));
   }
 }
